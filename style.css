@@ -6,7 +6,7 @@ body {
    justify-content:center;
    align-items:center;
    margin:0;
-   background:#424f6f;
+   background:#125740 ;
 }
 
 #container {
@@ -14,7 +14,7 @@ body {
     height:400px;
     padding:0;
     box-sizing:border-box;
-    background:#424f6f;
+    background:#125740 ;
 }
 
 *:after, 
@@ -76,13 +76,13 @@ body {
      display:block;
      width:30px;
      height:30px;
-     background:#252c49;
+     background:black;
      border-radius:50%;
 
 }
 
 #spooky #body #mouth {
-    background:#252c49;
+    background:black ;
     margin: 25px auto 0;
     width:60px;
     height:30px;
@@ -119,7 +119,7 @@ body {
 
 #shadow {
     margin:-90px auto 0;
-    background:#252c49;
+    background:black;
     width:180px;
     height:40px;
     border-radius:50%;
